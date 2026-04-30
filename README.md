@@ -1,2 +1,2 @@
 # soft-nostalgia
-link: 
+link: https://lehafeli02.github.io/soft-nostalgia/
